@@ -14,7 +14,7 @@ This is Sankalp ✋ <br><hr>
 
 ✔️ I am a final year student <br>
 ✔️ I am pursuing B.Tech in CSE from [VIT](https://vit.ac.in/), Vellore <br>
-✔️ I try to help people for placements and interviews <br>
+✔️ I help people for their placements and interviews <br>
 ✔️ Check out my YouTube channel here 👉 @[sankalpdayal5](https://bit.ly/3gq8Dze)  <br>
 <hr>
 
