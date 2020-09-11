@@ -1,5 +1,5 @@
-# Hello World 👋
-This is Sankalp ✋ <br>
+## Hello World 👋
+This is Sankalp ✋ <br><hr>
 
 
 ### Connect with me 😃
