@@ -12,9 +12,8 @@ This is Sankalp ✋ <br><hr>
 [![GitHub followers](https://img.shields.io/github/followers/sankalpdayal5.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sankalpdayal5?tab=followers)
 <hr>
 
-✔️ I am a final year student <br>
-✔️ I am pursuing B.Tech in CSE from [VIT](https://vit.ac.in/), Vellore <br>
-✔️ I help people for their placements and interviews <br>
+✔️ Software Engineer @PayPal <br>
+✔️ B.Tech in CSE from [VIT](https://vit.ac.in/), Vellore <br>
 ✔️ Check out my YouTube channel here 👉 @[sankalpdayal5](https://bit.ly/3gq8Dze)  <br>
 <hr>
 
